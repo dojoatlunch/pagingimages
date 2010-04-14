@@ -1,0 +1,208 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* PagingImages */ = {
+		activeExec = 0;
+		executables = (
+			8B5509381175D24600D7D697 /* PagingImages */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* PagingImagesViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {755, 353}}";
+			sepNavSelRange = "{251, 0}";
+			sepNavVisRange = "{0, 258}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* PagingImagesViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1157}}";
+			sepNavSelRange = "{2367, 0}";
+			sepNavVisRange = "{578, 530}";
+			sepNavWindowFrame = "{{0, 55}, {1024, 691}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8B5509381175D24600D7D697 /* PagingImages */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* PagingImages */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* PagingImages */,
+		);
+		codeSenseManager = 8B5509431175D26500D7D697 /* Code sense */;
+		executables = (
+			8B5509381175D24600D7D697 /* PagingImages */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292934214;
+			PBXWorkspaceStateSaveDate = 292934214;
+		};
+		perUserProjectItems = {
+			8B5509501175D54D00D7D697 /* PBXTextBookmark */ = 8B5509501175D54D00D7D697 /* PBXTextBookmark */;
+			8B5509661175D57E00D7D697 /* PBXBookmark */ = 8B5509661175D57E00D7D697 /* PBXBookmark */;
+			8B5509851175D75900D7D697 /* XCBuildMessageTextBookmark */ = 8B5509851175D75900D7D697 /* XCBuildMessageTextBookmark */;
+			8B55098A1175D76700D7D697 /* PBXTextBookmark */ = 8B55098A1175D76700D7D697 /* PBXTextBookmark */;
+			8B5509EA1175DEC700D7D697 /* PBXTextBookmark */ = 8B5509EA1175DEC700D7D697 /* PBXTextBookmark */;
+			8B5509F01175ECE500D7D697 /* PlistBookmark */ = 8B5509F01175ECE500D7D697 /* PlistBookmark */;
+			8B5509F11175ECE500D7D697 /* PBXBookmark */ = 8B5509F11175ECE500D7D697 /* PBXBookmark */;
+			8B5509F21175ECE500D7D697 /* PBXTextBookmark */ = 8B5509F21175ECE500D7D697 /* PBXTextBookmark */;
+			8B5509F31175ECE500D7D697 /* PBXTextBookmark */ = 8B5509F31175ECE500D7D697 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8B5509421175D26500D7D697 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8B5509381175D24600D7D697 /* PagingImages */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = PagingImages;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8B5509421175D26500D7D697 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8B5509431175D26500D7D697 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8B5509481175D52900D7D697 /* screenshot1.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{0, 55}, {1024, 691}}";
+		};
+	};
+	8B5509501175D54D00D7D697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8B5509511175D54D00D7D697 /* UIView.h */;
+		name = "UIView.h: 112";
+		rLen = 46;
+		rLoc = 4403;
+		rType = 0;
+		vrLen = 1904;
+		vrLoc = 3551;
+	};
+	8B5509511175D54D00D7D697 /* UIView.h */ = {
+		isa = PBXFileReference;
+		name = UIView.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h;
+		sourceTree = "<absolute>";
+	};
+	8B5509661175D57E00D7D697 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8B5509491175D52900D7D697 /* screenshot2.png */;
+	};
+	8B5509851175D75900D7D697 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'imageView2' undeclared (first use in this function)";
+		fRef = 28D7ACF70DDB3853001CB0EB /* PagingImagesViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 51;
+		rType = 1;
+	};
+	8B55098A1175D76700D7D697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* PagingImagesViewController.h */;
+		name = "PagingImagesViewController.h: 14";
+		rLen = 0;
+		rLoc = 251;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 0;
+	};
+	8B5509EA1175DEC700D7D697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PagingImagesViewController.m */;
+		name = "PagingImagesViewController.m: 40";
+		rLen = 0;
+		rLoc = 1172;
+		rType = 0;
+		vrLen = 990;
+		vrLoc = 579;
+	};
+	8B5509F01175ECE500D7D697 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8B5509DC1175DE2800D7D697 /* Files.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			2,
+		);
+		name = /Users/vctran/Documents/iPhoneDev/Dojos/PagingImages/Files.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	8B5509F11175ECE500D7D697 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8B5509481175D52900D7D697 /* screenshot1.png */;
+	};
+	8B5509F21175ECE500D7D697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PagingImagesViewController.m */;
+		name = "PagingImagesViewController.m: 33";
+		rLen = 0;
+		rLoc = 894;
+		rType = 0;
+		vrLen = 993;
+		vrLoc = 574;
+	};
+	8B5509F31175ECE500D7D697 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* PagingImagesViewController.m */;
+		name = "PagingImagesViewController.m: 38";
+		rLen = 8;
+		rLoc = 1042;
+		rType = 0;
+		vrLen = 1284;
+		vrLoc = 437;
+	};
+}
